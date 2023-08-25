@@ -1,4 +1,6 @@
 # news-app
+### This is a simple news app where news data came from NEWSAPI and i extract some valuable data from it and uses that data into this project. 
+### In this project there is a search buttom where user can search their intresting news.  
 ![Screenshot (404)](https://github.com/Ravi05shankar/news-app/assets/94690268/f3bc40fe-e26a-4217-b502-e4a3646a27e3)
 ![Screenshot (405)](https://github.com/Ravi05shankar/news-app/assets/94690268/5853850b-7004-4fce-9c9b-99eba627cf4a)
 ![Screenshot (406)](https://github.com/Ravi05shankar/news-app/assets/94690268/38a0390e-9415-4c98-82d6-f0ed08948d66)
